@@ -128,6 +128,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 * [GopherCon Brasil](https://2016.gopherconbr.org/) | **November 04-06** | Florianopolis / SC 
 * [GDG DevFest Sul](http://devfestsul.com.br/) | **November 7-8** | Sao Paulo
+* [Javaneiros](http://www.javaneiros.com.br/) | **November 12** | Campo Grande / MS
 * [Mobile Summit](http://www.msummit.com.br/) | **November 18-19** | Porto Alegre
 * [CASE](http://case.abstartups.com.br/) | **November** | Sao Paulo
 * [GDG DevFest Sao Paulo](http://sp.devfest.com.br/) | **November** | Sao Paulo
